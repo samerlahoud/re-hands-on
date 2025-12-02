@@ -87,11 +87,3 @@ The original message:
    - If the program reverses the string, you probably need to reverse it back.  
    - If the program flips the case of letters (upper ↔ lower), you will need to flip it again.
 
-6. **What to submit**
-
-   - The recovered original message as plain text.  
-   - A short explanation (5–10 lines) of:
-     - What the scrambler does to the message (step by step).  
-     - How you inverted the transformation to recover the original text.  
-   - Optionally, your de-scrambling code.
-
